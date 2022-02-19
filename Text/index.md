@@ -180,11 +180,12 @@ Utwór literacji złożony z 14 wersów 4-4-3-3 z rymowanych zwykle abba abba. P
 ### Umiejętność rozpoznania iinterpretacji obrazów
 
 - **Théodore Géricault**, *Tratwa Meduzy*
-  - Upamiętnia wydarzenia rewolucji lipcowej wymierzonej przeciwko panowaniu króla Francji, Karola X. Wolność została przedstawiona jako kobieta trzymającej w jednej ręce trójkolorową flagę, a w drugiej muszkiet z bagnetem
+  - Tratwa jest unoszona przez wzburzone morze, a na horyzoncie widoczny jest okręt wojenny Argus, który odnalazł rozbitków. Malarz, dzięki kontrastowi pomiędzy światłem a zastygłymi gestami wyrażającymi nadzieję i strach, ukazał dramatyzm i pełną ekspresji scenę.
 
   ![*Tratwa Meduzy*](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Th%C3%A9odore_G%C3%A9ricault%2C_Le_Radeau_de_la_M%C3%A9duse.jpg/1920px-Th%C3%A9odore_G%C3%A9ricault%2C_Le_Radeau_de_la_M%C3%A9duse.jpg)
 - **Eugène Delacroix**, *Wolność wiodąca lud na barykady*
-  - Tratwa jest unoszona przez wzburzone morze, a na horyzoncie widoczny jest okręt wojenny Argus, który odnalazł rozbitków. Malarz, dzięki kontrastowi pomiędzy światłem a zastygłymi gestami wyrażającymi nadzieję i strach, ukazał dramatyzm i pełną ekspresji scenę.
+
+  - Upamiętnia wydarzenia rewolucji lipcowej wymierzonej przeciwko panowaniu króla Francji, Karola X. Wolność została przedstawiona jako kobieta trzymającej w jednej ręce trójkolorową flagę, a w drugiej muszkiet z bagnetem
 
   ![*Wolność wiodąca lud na barykady*](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Eug%C3%A8ne_Delacroix_-_Le_28_Juillet._La_Libert%C3%A9_guidant_le_peuple.jpg/1280px-Eug%C3%A8ne_Delacroix_-_Le_28_Juillet._La_Libert%C3%A9_guidant_le_peuple.jpg)
 Umiejętność wskazania w poznanych filmach charakterystycznychcech kompozycji dzieł romantycznych oraz cech bohaterów romantycznych.
