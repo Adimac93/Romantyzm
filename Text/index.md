@@ -218,10 +218,10 @@ Doświadcza miłości od pierwszego wejrzenia. wrażliwy - cierpi z powodu niesz
 > dwa życiorysy, dwie drogi pisarskie
 
 Obaj autorzy większość swojego życia spędzili na emigracji.
-
+Mickiewicz prezentował koncepcję mesjanistyczną, a Słowacki winkelriedyzm.
 #### Mickiewicz
 
-Prezentował koncepcję mesjanistyczną, a Słowacki winkelriedyzm. Mickiewicz w 1823 roku, gdy był nauczycielem w Kownie został aresztowany za przynależność do tajnych organizacji (*Towarzystwo Filomatów i Filaretów*). Sześć lat później udał się na podróż po Europie. Po nieudanej próbie wzięcia w powstaniu listopadowtym, wyjechał do Drezna, gdzie powstały *Dziady cz III*. Później mieszkał w Paryżu, gdzie powstał *Pan Tadeusz*. Przez pewien czas pozostawał pod silnym wpływem Andrzeja Towiańskeigo, reprezentanta polskiego mesjanizmu. Zmarł w 1855, podczas wojny krymskiej w Konstantynopolu.
+W 1823 roku, gdy był nauczycielem w Kownie został aresztowany za przynależność do tajnych organizacji (*Towarzystwo Filomatów i Filaretów*). Sześć lat później udał się na podróż po Europie. Po nieudanej próbie wzięcia w powstaniu listopadowtym, wyjechał do Drezna, gdzie powstały *Dziady cz III*. Później mieszkał w Paryżu, gdzie powstał *Pan Tadeusz*. Przez pewien czas pozostawał pod silnym wpływem Andrzeja Towiańskeigo, reprezentanta polskiego mesjanizmu. Zmarł w 1855, podczas wojny krymskiej w Konstantynopolu.
 
 #### Juliusz Słowacki
 
