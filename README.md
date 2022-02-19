@@ -1,3 +1,9 @@
 # Contributors
 
-Special thanks to Naromcia, Kanimod and Noffy for writing a text.
+### Twórcy tekstu
+
+A.Werel, Z.Stanisławska, Ł.Łapiński
+
+### Formatowanie i interakcje
+
+A.Maciejczuk
