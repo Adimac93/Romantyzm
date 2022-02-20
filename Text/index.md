@@ -136,15 +136,15 @@ Utwór literacji złożony z 14 wersów 4-4-3-3 z rymowanych zwykle abba abba. P
 
 ### Adam Mickiewicz
 
-- Oda do młodości
-- Romantyczność
-- Lilie
-- wybrane Sonety krymskie(z podręcznika)
-- Gdy tu mój trup
-- Nad wodą wielką i czystą
+- [Oda do młodości](https://klp.pl/mickiewicz/ser-101.html)
+- [Romantyczność](https://klp.pl/mickiewicz/a-5803.html)
+- [Lilie](https://klp.pl/mickiewicz/a-5890.html)
+- [wybrane Sonety krymskie(z podręcznika)](https://klp.pl/mickiewicz/ser-102.html)
+- [Gdy tu mój trup](https://klp.pl/mickiewicz/a-7744.html)
+- [Nad wodą wielką i czystą](https://klp.pl/mickiewicz/a-5792.html)
 - Rozmowa wieczorna
 - Pieśń pielgrzyma
-- Konrad Wallenrod
+- [Konrad Wallenrod](https://klp.pl/konrad-wallenrod/ser-57.html)
 - Dziady cz. II, III, IV
 - Pan Tadeusz
   
@@ -267,7 +267,9 @@ Romantyzm pozostawił po sobie mit Polaka – żołnierza, który woli umrzeć n
 zapasy prochu. Emilia Plater zachowała się jak mężczyzna – została dowódcą oddziału i ruszyła do walki.
 W wierszu Słowackiego kaleki starzec ma w sobie więcej siły ducha niż jego zdrowi adiutanci.
 
-Obrazy życia dawnej Rzeczypospolitej w Panu Tadeuszu - Pozornie „Pan Tadeusz” jest przesycony bezkrytycznym uwielbieniem dla dawnej Polski. Poeta ukazał malowniczy, barwny, zamknięty i tworzący jakby mikrokosmos świat dworków, zaścianków. Zaludniająca go szlachta przestrzega tradycji, szanuje dawne obyczaje oraz zwyczaje. Lubi biesiadować, gawędzić, polować, spierać się podczas sejmików, jest gościnna i otwarta. Umiłowanie przeszłości, świata dziadów i ojców, nakazuje jej bronić się przed cudzoziemszczyzną. Owa szlachta bywała kłótliwa, samowolna, miała skłonność do prywaty i pieniactwa. Jednak te ostatnie cechy zostały ukazane przez poetę z łagodnym humorem, pewnym ciepłem skłaniającym do wybaczenia licznych przywar. Tym bardziej, że Litwę z „Pana Tadeusza” zamieszkiwały jakże barwne i nietuzinkowe postacie, choćby Jacek Soplica, Stolnik, Gerwazy, Protazy. Ta kraina dzieciństwa poety, chociaż ukazana z niekiedy wielkim realizmem, została poddana idealizacji.
+### Obrazy życia dawnej Rzeczypospolitej w Panu Tadeuszu
+
+Pozornie „Pan Tadeusz” jest przesycony bezkrytycznym uwielbieniem dla dawnej Polski. Poeta ukazał malowniczy, barwny, zamknięty i tworzący jakby mikrokosmos świat dworków, zaścianków. Zaludniająca go szlachta przestrzega tradycji, szanuje dawne obyczaje oraz zwyczaje. Lubi biesiadować, gawędzić, polować, spierać się podczas sejmików, jest gościnna i otwarta. Umiłowanie przeszłości, świata dziadów i ojców, nakazuje jej bronić się przed cudzoziemszczyzną. Owa szlachta bywała kłótliwa, samowolna, miała skłonność do prywaty i pieniactwa. Jednak te ostatnie cechy zostały ukazane przez poetę z łagodnym humorem, pewnym ciepłem skłaniającym do wybaczenia licznych przywar. Tym bardziej, że Litwę z „Pana Tadeusza” zamieszkiwały jakże barwne i nietuzinkowe postacie, choćby Jacek Soplica, Stolnik, Gerwazy, Protazy. Ta kraina dzieciństwa poety, chociaż ukazana z niekiedy wielkim realizmem, została poddana idealizacji.
 
 ### Geneza Pana Tadeusza
 
